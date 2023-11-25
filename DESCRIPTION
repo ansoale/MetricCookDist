@@ -1,0 +1,15 @@
+Package: metricCook
+Type: Package
+Title: Metric Cook's Distance
+Version: 0.1.0
+Author: Abdul-Nasah Soale
+Maintainer: The package maintainer <abdul-nasah.soale@case.edu>
+Description: This package is for diagnosing influential observations 
+             in single-index models with metric-valued responses.
+             
+             The package extends the classical Cook's distances to regression
+             with random response objects on compact metric spaces.
+    
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
